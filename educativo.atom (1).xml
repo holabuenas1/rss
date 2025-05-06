@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Actualizaciones Educativas - Plataforma XYZ</title>
+  <link href="https://plataforma-xyz.edu/"/>
+  <updated>2025-05-06T10:00:00Z</updated>
+  <author>
+    <name>Equipo Académico</name>
+  </author>
+  <id>https://plataforma-xyz.edu/feed</id>
+
+  <entry>
+    <title>Nuevo curso: Introducción a la Inteligencia Artificial</title>
+    <link href="https://plataforma-xyz.edu/cursos/ia"/>
+    <id>https://plataforma-xyz.edu/cursos/ia</id>
+    <updated>2025-05-05T15:00:00Z</updated>
+    <summary>Curso introductorio sobre conceptos básicos de IA, algoritmos y aplicaciones.</summary>
+    <author>
+      <name>Prof. Laura Mendoza</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Webinar: Estrategias de enseñanza híbrida</title>
+    <link href="https://plataforma-xyz.edu/eventos/hibrida2025"/>
+    <id>https://plataforma-xyz.edu/eventos/hibrida2025</id>
+    <updated>2025-05-04T11:30:00Z</updated>
+    <summary>Un seminario en línea para docentes sobre educación combinada presencial y virtual.</summary>
+    <author>
+      <name>Unidad de Innovación Educativa</name>
+    </author>
+  </entry>
+</feed>
